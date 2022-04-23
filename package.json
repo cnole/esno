@@ -1,5 +1,5 @@
 {
-  "name": "esno",
+  "name": "@cnole/esmo",
   "description": "TS/JS Node powered by esbuild",
   "version": "0.15.0",
   "license": "MIT",
